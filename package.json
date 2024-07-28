@@ -1,5 +1,5 @@
 {
-  "name": "test-ali16",
+  "name": "test-npm",
   "version": "0.0.1",
   "description": "test npm package",
   "main": "./dist/index.js",
@@ -8,6 +8,9 @@
   "homepage": "https://google.com",
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "url": "https://github.com/aliberro16/test-ali16"
   },
   "scripts": {
     "build": "tsup"
